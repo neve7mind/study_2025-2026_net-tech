@@ -14,7 +14,6 @@ toc-depth: 2
 ## Crossref customization
 crossref:
   lof-title: "Список иллюстраций"
-  lot-title: "Список таблиц"
   lol-title: "Листинги"
 ## Bibliography
 bibliography:

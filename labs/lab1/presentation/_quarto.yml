@@ -9,7 +9,6 @@ self-contained: true
 lang: ru-RU
 crossref:
   lof-title: Список иллюстраций
-  lot-title: Список таблиц
   lol-title: Листинги
 ## Formats
 format:

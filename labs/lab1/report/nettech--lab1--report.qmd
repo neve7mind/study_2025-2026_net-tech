@@ -2,7 +2,7 @@
 ## Author
 author:
   name: Мурашов Иван Вячеславович
-  email: neve07mind@gmail.com
+  email: 1132236018@pfur.ru
   affiliation:
     - name: Российский университет дружбы народов
       country: Российская Федерация
